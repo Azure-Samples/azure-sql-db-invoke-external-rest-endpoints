@@ -1,57 +1,13 @@
-# Project Name
+# Azure SQL DB sp_invoke_external_rest_endpoint samples
 
-(short, 1-3 sentenced, description of the project)
+`sp_invoke_external_rest_endpoint` is a system stored procedure that allows native invocation of an HTTPS REST endpoint from Azure SQL DB.
 
-## Features
+For full details on this stored procedure, please take a look at the official documentation here: [sp_invoke_external_rest_endpoint (Transact-SQL)](https://learn.microsoft.com/sql/relational-databases/system-stored-procedures/sp-invoke-external-rest-endpoint-transact-sql)
 
-This project framework provides the following features:
+## Samples
 
-* Feature 1
-* Feature 2
-* ...
+### [Azure Functions](./azure-functions.ipynb)
 
-## Getting Started
-
-### Prerequisites
-
-(ideally very short, if any)
-
-- OS
-- Library version
-- ...
-
-### Installation
-
-(ideally very short)
-
-- npm install [package name]
-- mvn install
-- ...
-
-### Quickstart
-(Add steps to get up and running quickly)
-
-1. git clone [repository clone url]
-2. cd [repository name]
-3. ...
-
-
-## Demo
-
-A demo app is included to show how to use the project.
-
-To run the demo, follow these steps:
-
-(Add steps to start up the demo)
-
-1.
-2.
-3.
-
-## Resources
-
-(Any additional resources or related projects)
-
-- Link to supporting information
-- Link to similar sample
-- ...
+- Call a public (or anonymous) Azure Function
+- Call an Azure Function protected by a secret key
+- Call an Azure Function protected by Azure AD
