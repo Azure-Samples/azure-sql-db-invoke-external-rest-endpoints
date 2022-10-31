@@ -10,19 +10,18 @@ Samples are made available via Jupyter Notebook, natively supported by GitHub an
 
 ### [Azure Functions](./azure-functions.ipynb)
 
-In the provede notebook you can find samples on how to invoke an [Azure Function](https://learn.microsoft.com/azure/azure-functions/functions-overview) using a [HTTP Trigger](https://learn.microsoft.com/azure/azure-functions/functions-bindings-http-webhook-trigger):
+In the provided notebook you can find samples on how to invoke an [Azure Function](https://learn.microsoft.com/azure/azure-functions/functions-overview) using a [HTTP Trigger](https://learn.microsoft.com/azure/azure-functions/functions-bindings-http-webhook-trigger):
 
 - Invoke a public (or anonymous) Azure Function
 - Invoke an Azure Function protected by a secret key
 - Invoke an Azure Function protected by Azure AD
 
-### [Azure Event Hubs]
+### [Azure Event Hubs](./azure-event-hubs.ipynb)
 
-Included samples:
+The sample notebook contains samples on how to send messages to Event Hubs:
 
-- Send 
-- Call an Azure Function protected by a secret key
-- Call an Azure Function protected by Azure AD
+- Send events using a SAS Token
+- Send events using a Managed Identity
 
 ### [Azure Event Grid]
 
