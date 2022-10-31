@@ -10,13 +10,19 @@ Samples are made available via Jupyter Notebook, natively supported by GitHub an
 
 ### [Azure Functions](./azure-functions.ipynb)
 
-- Call a public (or anonymous) Azure Function
-- Call an Azure Function protected by a secret key
-- Call an Azure Function protected by Azure AD
+In the provede notebook you can find samples on how to invoke an [Azure Function](https://learn.microsoft.com/azure/azure-functions/functions-overview) using a [HTTP Trigger](https://learn.microsoft.com/azure/azure-functions/functions-bindings-http-webhook-trigger):
+
+- Invoke a public (or anonymous) Azure Function
+- Invoke an Azure Function protected by a secret key
+- Invoke an Azure Function protected by Azure AD
 
 ### [Azure Event Hubs]
 
-Work in progress
+Included samples:
+
+- Send 
+- Call an Azure Function protected by a secret key
+- Call an Azure Function protected by Azure AD
 
 ### [Azure Event Grid]
 
