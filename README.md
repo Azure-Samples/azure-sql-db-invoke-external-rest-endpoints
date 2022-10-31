@@ -18,7 +18,7 @@ In the provided notebook you can find samples on how to invoke an [Azure Functio
 
 ### [Azure Event Hubs](./azure-event-hubs.ipynb)
 
-The sample notebook contains samples on how to send messages to Event Hubs:
+The sample notebook contains samples on how to send messages to [Azure Event Hubs](https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-about):
 
 - Send events using a SAS Token
 - Send events using a Managed Identity
