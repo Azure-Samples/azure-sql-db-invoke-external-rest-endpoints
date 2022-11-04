@@ -18,7 +18,7 @@ In the provided notebook you can find samples on how to invoke an [Azure Functio
 
 ### [Azure Event Hubs](./azure-event-hubs.ipynb)
 
-The sample notebook contains samples on how to send messages to [Azure Event Hubs](https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-about):
+The notebook contains samples on how to send messages to [Azure Event Hubs](https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-about):
 
 - Send events using a SAS Token
 - Send events using a Managed Identity
@@ -43,9 +43,11 @@ Work in progress
 
 Work in progress
 
-### [Azure API Management]
+### [Azure API Management](./azure-api-management.ipynb)
 
-Work in progress
+The notebook contains samples on how to invoke an HTTPS REST endpoint no matter if it is residing in Azure or in any other cloud or hosting platform, by securely publishing and API using [Azure API Management](https://learn.microsoft.com/en-us/azure/api-management/)
+
+- Call an external REST endpoint using API Management
 
 ## Contribute
 
