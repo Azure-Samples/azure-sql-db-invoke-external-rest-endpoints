@@ -31,7 +31,7 @@ Work in progress
 
 The notebook shows DAX querie can be executed from Azure SQL DB using the `executeQueries` REST endpoint provided by Power BI datasets
 
-- [Execute DAX queries in Power BI]
+- Execute DAX queries in Power BI
 
 ### [Azure Cognitive Services]
 
