@@ -27,7 +27,7 @@ The notebook contains samples on how to send messages to [Azure Event Hubs](http
 
 Work in progress
 
-### [Power BI](./powerbi.ipynb)
+### [Power BI](./power-bi.ipynb)
 
 The notebook shows DAX querie can be executed from Azure SQL DB using the `executeQueries` REST endpoint provided by Power BI datasets
 
