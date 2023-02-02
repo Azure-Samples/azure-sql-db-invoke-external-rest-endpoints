@@ -29,13 +29,13 @@ Work in progress
 
 ### [Power BI](./power-bi.ipynb)
 
-The notebook shows DAX querie can be executed from Azure SQL DB using the `executeQueries` REST endpoint provided by Power BI datasets
+The notebook shows how DAX queries can be executed from Azure SQL DB using the `executeQueries` REST endpoint provided by Power BI datasets
 
 - Execute DAX queries in Power BI
 
 ### [Azure Cognitive Services]
 
-Work in progress
+The notebook shows how to send data back and forth between an Azure Cognitive services, configured to perform Anomaly Detection.
 
 ### [Azure SignalR]
 
