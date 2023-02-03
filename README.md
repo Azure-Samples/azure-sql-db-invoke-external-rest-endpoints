@@ -33,9 +33,9 @@ The notebook shows how DAX queries can be executed from Azure SQL DB using the `
 
 - Execute DAX queries in Power BI
 
-### [Azure Cognitive Services]
+### [Azure Cognitive Services](./azure-cognitive-services.ipynb)
 
-Work in progress
+The notebook shows how to send data back and forth between an Azure Cognitive services, configured to perform Anomaly Detection.
 
 ### [Azure SignalR]
 
