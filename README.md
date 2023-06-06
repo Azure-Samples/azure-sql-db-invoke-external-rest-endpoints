@@ -29,7 +29,7 @@ Work in progress
 
 ### [Azure OpenAI](https://github.com/azure-samples/azure-sql-db-openai)
 
-This sample shows how you can call Azure OpenAI to get text embeddings: https://github.com/azure-samples/azure-sql-db-openai
+This sample shows how you can call Azure OpenAI to get text embeddings and then find similar text using cosine similarity.
 
 ### [Power BI](./power-bi.ipynb)
 
