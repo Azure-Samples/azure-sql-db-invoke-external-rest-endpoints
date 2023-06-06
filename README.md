@@ -27,6 +27,10 @@ The notebook contains samples on how to send messages to [Azure Event Hubs](http
 
 Work in progress
 
+### [Azure OpenAI]
+
+This sample shows how you can call Azure OpenAI to get text embeddings: https://github.com/azure-samples/azure-sql-db-openai
+
 ### [Power BI](./power-bi.ipynb)
 
 The notebook shows how DAX queries can be executed from Azure SQL DB using the `executeQueries` REST endpoint provided by Power BI datasets
