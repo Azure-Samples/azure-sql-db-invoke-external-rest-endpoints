@@ -1,3 +1,21 @@
+---
+page_type: sample
+languages:
+- sql
+products:
+- azure-functions
+- azure-event-hubs
+- azure-openai
+- azure-sql-database
+- power-bi
+- cognitive-services
+- azure-api-management
+urlFragment: azure-sql-db-invoke-external-rest-endpoints
+name: Call REST endpoints from Azure SQL database
+description: |
+  sp_invoke_external_rest_endpoint is a system stored procedure that allows native invocation of an HTTPS REST endpoint from Azure SQL DB.
+---
+
 # Azure SQL DB sp_invoke_external_rest_endpoint samples
 
 `sp_invoke_external_rest_endpoint` is a system stored procedure that allows native invocation of an HTTPS REST endpoint from Azure SQL DB.
