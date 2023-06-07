@@ -8,7 +8,6 @@ products:
 - azure-openai
 - azure-sql-database
 - power-bi
-- cognitive-services
 - azure-api-management
 urlFragment: azure-sql-db-invoke-external-rest-endpoints
 name: Call REST endpoints from Azure SQL database
