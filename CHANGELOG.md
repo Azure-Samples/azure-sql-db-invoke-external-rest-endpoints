@@ -1,13 +1,7 @@
-## [project-title] Changelog
+## REST Endpoint Invocation Samples/Examples Changelog
 
 <a name="x.y.z"></a>
-# x.y.z (yyyy-mm-dd)
+# Aug 10, 2023
 
 *Features*
-* ...
-
-*Bug Fixes*
-* ...
-
-*Breaking Changes*
-* ...
+* Added a notebok on working with Azure Blob Storage
