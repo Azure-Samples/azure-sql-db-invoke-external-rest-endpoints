@@ -72,6 +72,10 @@ The notebook contains samples on how to invoke an HTTPS REST endpoint no matter 
 
 - Call an external REST endpoint using API Management
 
+### [Azure Blob Storage](./azure-storage.ipynb)
+
+This notebook has examples on working with Azure Blob Storage with SAS tokens and Managed Identities. Use the REST APIs for creaitng files, containers and then reading them back.
+
 ## Contribute
 
 Do you want to contribute adding a sample? Do you see something missing or incorrect? Please help this repository to grow, and submit an issue or fork it a submit a Pull Request. Details on how to contribute can be found here: [Contributing](./CONTRIBUTING.md) 
