@@ -33,6 +33,8 @@ These samples and workshops show how you can call Azure OpenAI to get text embed
 - [Build new AI applications with Azure SQL Database](https://github.com/Azure-Samples/sql-ai-embeddings-workshop)
 - [Use Azure SQL DB and REST endpoints to enable AI content moderation](https://github.com/AzureSQLDB/ContentSafetyLab)
 
+More on Azure SQL and AI can be found [here](https://aka.ms/sqlai).
+
 ### [Azure Functions](./azure-functions.ipynb)
 
 In the provided notebook you can find samples on how to invoke an [Azure Function](https://learn.microsoft.com/azure/azure-functions/functions-overview) using a [HTTP Trigger](https://learn.microsoft.com/azure/azure-functions/functions-bindings-http-webhook-trigger):
