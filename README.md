@@ -29,11 +29,9 @@ Samples are made available via Jupyter Notebook, natively supported by GitHub an
 
 These samples and workshops show how you can call Azure OpenAI to get text embeddings and then find similar text using cosine similarity.
 
-[Vector similarity search with Azure SQL & Azure OpenAI](https://github.com/azure-samples/azure-sql-db-openai)
-
-[Build new AI applications with Azure SQL Database](https://github.com/Azure-Samples/sql-ai-embeddings-workshop)
-
-[Use Azure SQL DB and REST endpoints to enable AI content moderation](https://github.com/AzureSQLDB/ContentSafetyLab)
+- [Vector similarity search with Azure SQL & Azure OpenAI](https://github.com/azure-samples/azure-sql-db-openai)
+- [Build new AI applications with Azure SQL Database](https://github.com/Azure-Samples/sql-ai-embeddings-workshop)
+- [Use Azure SQL DB and REST endpoints to enable AI content moderation](https://github.com/AzureSQLDB/ContentSafetyLab)
 
 ### [Azure Functions](./azure-functions.ipynb)
 
