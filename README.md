@@ -74,7 +74,7 @@ The notebook contains samples on how to invoke an HTTPS REST endpoint no matter 
 
 ### [Azure Blob Storage](./azure-storage.ipynb)
 
-This notebook has examples on working with Azure Blob Storage with SAS tokens and Managed Identities. Use the REST APIs for creaitng files, containers and then reading them back.
+This notebook has examples on working with Azure Blob Storage with SAS tokens and Managed Identities. Use the REST APIs for creating files, containers and then reading them back.
 
 ## Contribute
 
