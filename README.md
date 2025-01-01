@@ -25,6 +25,16 @@ For full details on this stored procedure, please take a look at the official do
 
 Samples are made available via Jupyter Notebook, natively supported by GitHub and also by [Azure Data Studio](https://learn.microsoft.com/en-us/sql/azure-data-studio/notebooks/notebooks-guidance)
 
+### Azure OpenAI
+
+These samples and workshops show how you can call Azure OpenAI to get text embeddings and then find similar text using cosine similarity.
+
+[Vector similarity search with Azure SQL & Azure OpenAI](https://github.com/azure-samples/azure-sql-db-openai)
+
+[Build new AI applications with Azure SQL Database](https://github.com/Azure-Samples/sql-ai-embeddings-workshop)
+
+[Use Azure SQL DB and REST endpoints to enable AI content moderation](https://github.com/AzureSQLDB/ContentSafetyLab)
+
 ### [Azure Functions](./azure-functions.ipynb)
 
 In the provided notebook you can find samples on how to invoke an [Azure Function](https://learn.microsoft.com/azure/azure-functions/functions-overview) using a [HTTP Trigger](https://learn.microsoft.com/azure/azure-functions/functions-bindings-http-webhook-trigger):
@@ -39,14 +49,6 @@ The notebook contains samples on how to send messages to [Azure Event Hubs](http
 
 - Send events using a SAS Token
 - Send events using a Managed Identity
-
-### [Azure Event Grid]
-
-Work in progress
-
-### [Azure OpenAI](https://github.com/azure-samples/azure-sql-db-openai)
-
-This sample shows how you can call Azure OpenAI to get text embeddings and then find similar text using cosine similarity.
 
 ### [Power BI](./power-bi.ipynb)
 
