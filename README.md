@@ -23,7 +23,7 @@ For full details on this stored procedure, please take a look at the official do
 
 ## Samples
 
-Samples are made available via Jupyter Notebook, natively supported by GitHub and also by [VS Code]([https://learn.microsoft.com/en-us/sql/azure-data-studio/notebooks/notebooks-guidance](https://code.visualstudio.com/docs/datascience/jupyter-notebooks))
+Samples are made available via Jupyter Notebook, natively supported by GitHub and also by [VS Code](https://code.visualstudio.com/docs/datascience/jupyter-notebooks)
 
 ### Azure OpenAI
 
