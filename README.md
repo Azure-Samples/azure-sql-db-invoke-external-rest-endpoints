@@ -50,11 +50,12 @@ The notebook contains samples on how to send messages to [Azure Event Hubs](http
 - Send events using a SAS Token
 - Send events using a Managed Identity
 
-### [Power BI](./power-bi.ipynb)
+### Power BI
 
-The notebook shows how DAX queries can be executed from Azure SQL DB using the `executeQueries` REST endpoint provided by Power BI datasets
-
-- Execute DAX queries in Power BI
+- [Execute DAX queries in Power BI](./power-bi.ipynb)
+  The notebook shows how DAX queries can be executed from Azure SQL DB using the `executeQueries` REST endpoint provided by Power BI semantic models
+- [Refresh a semantic model](./power-bi-semantic-model-refresh.ipynb)
+  The notebook shows how a semantic model can be refreshed from Azure SQL DB & SQL Server using the `refreshes` REST endpoint provided by Power BI semantic models
 
 ### [Azure Cognitive Services](./azure-cognitive-services.ipynb)
 
